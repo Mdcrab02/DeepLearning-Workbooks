@@ -36,13 +36,13 @@ If you're using Mac or Linux, then install [miniconda](http://conda.pydata.org/m
 
 ## Environment Setup
 
-**Download** the repository for `DeepLearning-Workbooks`.
+Now it's time to download the repository for `DeepLearning-Workbooks`.
 
 You can use the Github website or PowerShell/terminal for this, but the easiest way is to just use the Github website and Github Desktop.
 
-Clone/Fork the repository with the Github Website:
+**Fork** the repository with the Github Website:
 
-- Go to the website for the repository (where you are right now!)
+- Go to the website for the repository [here](https://github.com/Mdcrab02/DeepLearning-Workbooks)
 - In the upper right hand corner of the page click 'Fork'
 - You should now be at a repository of the same name, but on your Github.
 - Go ahead and click 'Clone or download' here, and follow the Github Desktop prompt and clone the repository into the default location.
@@ -86,3 +86,9 @@ To uninstall the environment:
 ```sh
 conda env remove -n DeepLearning-Workbooks
 ```
+
+---
+
+### Notes
+
+I mainly use Windows, so these instructions are more geared towards Windows users.
